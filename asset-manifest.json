@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.439f2f7f.css",
+    "main.css": "/static/css/main.33071290.css",
     "main.js": "/static/js/main.14a90c42.js",
     "static/media/in_game.png": "/static/media/in_game.cd57c6a3e7a267837ca9.png",
     "static/media/top_champions.png": "/static/media/top_champions.af979977059153bb9a67.png",
     "static/media/hero_image.png": "/static/media/hero_image.0e71bc265d8c5430aa19.png",
     "static/media/logo_text.svg": "/static/media/logo_text.8ac5da143f4e9db535421b2ff7cf5409.svg",
     "index.html": "/index.html",
-    "main.439f2f7f.css.map": "/static/css/main.439f2f7f.css.map",
+    "main.33071290.css.map": "/static/css/main.33071290.css.map",
     "main.14a90c42.js.map": "/static/js/main.14a90c42.js.map"
   },
   "entrypoints": [
-    "static/css/main.439f2f7f.css",
+    "static/css/main.33071290.css",
     "static/js/main.14a90c42.js"
   ]
 }
