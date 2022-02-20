@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ae5301b.css",
-    "main.js": "/static/js/main.8b58de14.js",
+    "main.css": "/static/css/main.4631d7c9.css",
+    "main.js": "/static/js/main.bb04cd58.js",
     "static/media/in_game.png": "/static/media/in_game.cd57c6a3e7a267837ca9.png",
     "static/media/overall_list.mp4": "/static/media/overall_list.8de1a3c7bf5e53ddc15f.mp4",
     "static/media/top_champions.png": "/static/media/top_champions.af979977059153bb9a67.png",
@@ -9,11 +9,11 @@
     "static/media/Righteous-Regular.ttf": "/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
     "static/media/logo_text.svg": "/static/media/logo_text.8ac5da143f4e9db535421b2ff7cf5409.svg",
     "index.html": "/index.html",
-    "main.8ae5301b.css.map": "/static/css/main.8ae5301b.css.map",
-    "main.8b58de14.js.map": "/static/js/main.8b58de14.js.map"
+    "main.4631d7c9.css.map": "/static/css/main.4631d7c9.css.map",
+    "main.bb04cd58.js.map": "/static/js/main.bb04cd58.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ae5301b.css",
-    "static/js/main.8b58de14.js"
+    "static/css/main.4631d7c9.css",
+    "static/js/main.bb04cd58.js"
   ]
 }
