@@ -1,10 +1,10 @@
 import hero from "../assets/hero_image.png";
 import inGame from "../assets/in_game.png";
-import topChampions from "../assets/top_champions.png";
 import { GithubLogo } from "phosphor-react";
 
 import { ReactComponent as Logo } from "../assets/logo_text.svg";
 import Overlay from "./Overlay";
+import Video from "./Video";
 
 function App() {
   return (
@@ -14,6 +14,9 @@ function App() {
           <div className="hero-columns">
             <div className="hero-content">
               <Logo />
+              <h1 className="shimmer">
+                <span>S</span>Plus
+              </h1>
               <p>
                 The tool that <span>tracks</span> LoL grades,{" "}
                 <span>predicts</span> them, and <span>learns</span> from them.
@@ -51,7 +54,7 @@ function App() {
             </p>
           </div>
           <div className="section-image">
-            <img src={topChampions} alt="Top Champions" />
+            <Video />
           </div>
         </div>
       </section>
@@ -88,7 +91,7 @@ function App() {
             </p>
           </div>
           <div>
-            <h3>How can I report bugs?</h3>
+            <h3>How can I report a bug?</h3>
             <p>
               <a href="https://github.com/mglad/s-plus/issues/new?assignees=&labels=&template=bug_report.md&title=">
                 Report a bug here
@@ -98,7 +101,7 @@ function App() {
           <div>
             <h3>How can I request a new feature?</h3>
             <p>
-              <a href=" https://github.com/mglad/s-plus/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">
+              <a href="https://github.com/mglad/s-plus/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">
                 Request a new feature here
               </a>
             </p>

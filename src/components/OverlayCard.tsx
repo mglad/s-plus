@@ -72,12 +72,12 @@ function OverlayCard({ score }: Props) {
   return (
     <div
       style={{
-        cursor: "grab",
         backgroundColor: "rgba(20, 20, 20, .8)",
         borderRadius: 8,
         display: "block",
         width: "fit-content",
         padding: 8,
+        userSelect: 'none',
       }}
     >
       <img src={logo} style={{ height: 16 }} alt="logo" />
