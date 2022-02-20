@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4631d7c9.css",
+    "main.css": "/static/css/main.b2485e37.css",
     "main.js": "/static/js/main.bb04cd58.js",
     "static/media/in_game.png": "/static/media/in_game.cd57c6a3e7a267837ca9.png",
     "static/media/overall_list.mp4": "/static/media/overall_list.8de1a3c7bf5e53ddc15f.mp4",
@@ -8,12 +8,13 @@
     "static/media/hero_image.png": "/static/media/hero_image.0e71bc265d8c5430aa19.png",
     "static/media/Righteous-Regular.ttf": "/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
     "static/media/logo_text.svg": "/static/media/logo_text.8ac5da143f4e9db535421b2ff7cf5409.svg",
+    "static/media/background.svg": "/static/media/background.91f32b85e316bf7e351a.svg",
     "index.html": "/index.html",
-    "main.4631d7c9.css.map": "/static/css/main.4631d7c9.css.map",
+    "main.b2485e37.css.map": "/static/css/main.b2485e37.css.map",
     "main.bb04cd58.js.map": "/static/js/main.bb04cd58.js.map"
   },
   "entrypoints": [
-    "static/css/main.4631d7c9.css",
+    "static/css/main.b2485e37.css",
     "static/js/main.bb04cd58.js"
   ]
 }
